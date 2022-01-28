@@ -1,4 +1,4 @@
-package tiger
+package tiger160
 
 import (
 	"encoding/binary"

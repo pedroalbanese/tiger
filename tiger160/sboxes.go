@@ -1,4 +1,4 @@
-package tiger
+package tiger160
 
 var t1 = [...]uint64{
 	0x02aab17cf7e90c5e, 0xac424b03e243a8ec, 0x72cd5be30dd5fcd3, 0x6d019b93f6f97f3a,
