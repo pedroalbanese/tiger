@@ -113,5 +113,5 @@ func (d digest) Sum(in []byte) []byte {
 		tmp[i+16] = byte(d.c >> (8 * i))
 	}
 
-	return append(in, tmp[:24]...)
+	return append(in, tmp[:20]...)
 }
