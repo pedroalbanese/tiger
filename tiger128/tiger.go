@@ -1,6 +1,6 @@
 // Package tiger implements the Tiger hash algorithm
 // https://github.com/cxmcc/tiger
-package tiger
+package tiger128
 
 import "hash"
 
